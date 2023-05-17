@@ -1,8 +1,15 @@
+# symbol.equation.gpt 1.1.3
+
+## Features
+
+ - [x] Bug fix for launching
+ 
 # symbol.equation.gpt 1.1.2
 
 ## Features
 
  - [x] Reorganization of panels and styling of boxes
+ - [x] Reorganization of app launch functions
  
 # symbol.equation.gpt 1.1.1
 
